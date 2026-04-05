@@ -10,13 +10,9 @@ I use this repository to familiarise myself with fundamental computer science co
 ## 📁 Project Structure
 
 - **binary_trees/** - Binary tree implementations and examples
-  - `binary_tree.py` - Core binary tree node class
-  - `binary_tree.ipynb` - Jupyter notebook with interactive examples
-  - `binary_tree_example1.png` - Visual representation of tree structure
 
 - **search_algorithms/** - Search algorithm implementations
-  - `binary_search.py` - Binary search implementation
-  - `sorting_algorithms.py` - Various sorting algorithms
 
 - **sorting_algorithms/** - Sorting algorithm implementations
-  - `sorting_algorithms.py` - Various sorting algorithms
+
+
